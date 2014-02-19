@@ -2,8 +2,9 @@
  "file":"compiled.map",
  "sources":
  ["src/lt/plugins/xyz.cljs"],
- "lineCount":9,
+ "lineCount":10,
  "mappings":
- ";AAAA;;AAEA,eAAA,yEAAA,mFAAA,8EAAA,uDAAA,mFAAA;AAEA,6BAAA,yBAAA,tDAAMA,mDAAaC,GAAG,YAAA,JAAGA;;AACzB,qCAAA,rCAACD;AAED,qCAAA,rCAACE",
+ ";AAAA;;AAGA,eAAA,yEAAA,mFAAA,8EAAA,uDAAA,mFAAA;AAEA,6BAAA,yBAAA,tDAAMA,mDAAaC,GAAG,YAAA,JAAGA;;AACzB,qCAAA,rCAACD;AAED,yBAAA,oBAAA,7CAAME,6CACJ,4CAAA,rCAACC",
  "names":
- ["lt.plugins.xyz/my-triple-f", "x", "lt.plugins.abc/my-double-f"]}
+ ["lt.plugins.xyz/my-triple-f", "x", "lt.plugins.xyz/ref-abc",
+  "lt.plugins.abc/my-double-f"]}
