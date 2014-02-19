@@ -8,3 +8,5 @@
 
 (defn ref-abc []
   (lt.plugins.abc/my-double-f 3))
+
+'(my-double-m 3)
